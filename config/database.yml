@@ -1,0 +1,9 @@
+development:
+  adapter: sqlite3
+  encoding: utf8
+  database: db/production.sqlite3
+production:
+  adapter: sqlite3
+  encoding: utf8
+  database: db/production.sqlite3
+  
